@@ -4,7 +4,7 @@ func main() {
 
 }
 
-func MaxInt(a, b int) int {
+func MaxInt(a, b int) int { // example
 	if a >= b {
 		return a
 	}
